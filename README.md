@@ -2,11 +2,13 @@
 
 This project demonstrates an end-to-end data analytics workflow, covering data loading, exploration, cleaning, analysis using SQL, and visualization through Power BI. The goal is to transform raw data into meaningful insights and present them in a clear, business-friendly format using dashboards and reports.
 
+
 The dataset was loaded and processed using Python
 
 It contains structured data suitable for analysis and visualization
 
 Initial inspection identified missing values, inconsistencies, and patterns that required cleaning.
+
 
 
 Python (Pandas, NumPy)
@@ -20,6 +22,7 @@ Gamma (Presentation / PPT creation)
 Jupyter Notebook
 
 GitHub (Version control & documentation)
+
 
 
 Data Loading
@@ -38,6 +41,7 @@ Identified missing values and outliers
 Generated summary statistics and visualizations
 
 
+
 Data Cleaning
 
 Handled missing and duplicate values
@@ -45,6 +49,7 @@ Handled missing and duplicate values
 Corrected data types and inconsistencies
 
 Prepared clean data for analysis and reporting
+
 
 
 SQL Analysis
@@ -62,6 +67,7 @@ Business-related insights
 KPI calculations
 
 
+
 Power BI Dashboard
 
 Connected Power BI to the SQL database
@@ -74,10 +80,10 @@ Filters and slicers
 
 Clean and professional layout
 
-
 Reporting & Presentation
 
 Created a detailed analytical report.
+
 
 
 
